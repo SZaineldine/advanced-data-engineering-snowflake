@@ -4,6 +4,8 @@ default_connection_name = "advanced_data_engineering_snowflake"
 
 [connections]
 [connections.advanced_data_engineering_snowflake]
-account=""
-user=""
-password=""
+account="YRFDSWU-TRB18263"
+user="SHEHABZAINELDINE"
+password="AnaEsmiShehab1"
+warehouse="COMPUTE_WH"
+role="ACCOUNTADMIN"
